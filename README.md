@@ -2,6 +2,8 @@
 
 ## Team name: ERROR_404
 
+## Video link: https://drive.google.com/drive/folders/101ZPkkiPGZGIGAZ2C8D_1BYjDhJb_F06?usp=sharing
+
 ### 1. INTRODUCTION
 150+ days since the first COVID-19 case in the World, and 45+ days into the earliest Lockdown Order of India, how is the public feeling in times like these?
 The Corona Virus endangers our physical health indeed, but alongside, social distancing also poses a threat to our emotional stability. Thus, it is crucial to understand public sentiments under COVID-19.
